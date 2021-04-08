@@ -2,7 +2,7 @@
 
 ⚡ Repository summary
 
-🔭[**[Workspace]**](./workspace) : collections of my foundational works in computational/computer science  
+🔭[**[Workspace]**](./workspace) : collection of my foundational works in computational/computer science  
   
 🌱[**[Machine Learning]**](./machine_learning) : in depth study / implementation of machine learning/deep learing using keras and pytorch  
   
