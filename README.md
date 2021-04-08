@@ -2,13 +2,13 @@
 
 ⚡ Repository summary
 
-🔭[**[Workspace]**](./workspace) : collection of my foundational works in computational/computer science  
+🔭[**[Workspace]**](https://github.com/duilee/workspace) : collection of my foundational works in computational/computer science  
   
-🌱[**[Machine Learning]**](./machine_learning) : in depth study / implementation of machine learning/deep learing using keras and pytorch  
+🌱[**[Machine Learning]**](https://github.com/duilee/machine_learning) : in depth study / implementation of machine learning/deep learing using keras and pytorch  
   
-👯[**[Data Project]**](./data_projects) : data projects including data analysis and machine learning. Notable projects are...  
-  - Prediction AI for Artic Sea Ice Concentration using Satellite Image [**[project summary]**](./data_projects/_00_ice_concentration_AI/Project_summary_eng.pdf)
-  - Jeju Island's Spending Analysis  [**[project summary]**](./data_projects/_01_jeju_spending_pattern_analysis/Project_summary_jeju.pdf)
+👯[**[Data Project]**](https://github.com/duilee/data_projects) : data projects including data analysis and machine learning. Notable projects are...  
+  - Prediction AI for Artic Sea Ice Concentration using Satellite Image [**[project summary]**](https://github.com/duilee/data_projects/blob/master/_00_ice_concentration_AI/Project_summary_eng.pdf)
+  - Jeju Island's Spending Analysis  [**[project summary]**](https://github.com/duilee/data_projects/blob/master/_01_jeju_spending_pattern_analysis/Project_summary_jeju.pdf)
 
 📫 How to reach me: duilee[at]berkeley.edu
 
