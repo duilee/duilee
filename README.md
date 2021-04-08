@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ Repository summary
+⚡ **Repository summary**
 
 🔭[**[Workspace]**](https://github.com/duilee/workspace) : collection of my foundational works in computational/computer science  
   
